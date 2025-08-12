@@ -1,0 +1,7 @@
+timestamp,ticker,side,confidence,rsi,atr_volatility
+2025-08-10 10:00,BTC-USD,buy,0.7,50,0.3
+2025-08-10 11:00,BTC-USD,sell,0.9,75,0.4
+2025-08-10 12:00,ETH-USD,buy,0.6,55,0.1
+2025-08-11 09:00,AAPL,buy,0.8,42,0.25
+2025-08-11 12:00,AAPL,sell,0.95,58,0.22
+2025-08-11 15:00,MSFT,buy,0.5,45,0.5
